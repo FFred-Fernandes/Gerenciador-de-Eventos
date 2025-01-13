@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação fullstack que permite aos administradores gerenciar eventos de maneira simples e eficiente. Ele foi desenvolvido utilizando React para o frontend e Spring Boot para o backend.
 
-## Funcionalidades
+## 📃 Funcionalidades
 
 ### Frontend (React e React Native):
 
@@ -39,7 +39,7 @@ Este projeto é uma aplicação fullstack que permite aos administradores gerenc
 5. Serviço de Exclusão de Evento:
    - Exclui um evento com base no seu eventoId.
 
-## Tecnologias Utilizadas
+## 👨‍💻 Tecnologias Utilizadas
 
 * [React](https://react.dev/);
 * [React Native](https://reactnative.dev/)
@@ -47,6 +47,6 @@ Este projeto é uma aplicação fullstack que permite aos administradores gerenc
 * [DBevear](https://dbeaver.io/);
 * [Swagger](https://swagger.io/).
 
-## Autor
+## 🖊️ Autor
 
 * [Frederico da Costa Fernandes](https://github.com/FFred-Fernandes)
