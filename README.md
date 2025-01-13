@@ -1,6 +1,6 @@
 # Gerenciador de Eventos
 
-* Este projeto é uma aplicação fullstack que permite aos administradores gerenciar eventos de maneira simples e eficiente. Ele foi desenvolvido utilizando React para o frontend e Spring Boot para o backend.
+Este projeto é uma aplicação fullstack que permite aos administradores gerenciar eventos de maneira simples e eficiente. Ele foi desenvolvido utilizando React para o frontend e Spring Boot para o backend.
 
 ## Funcionalidades
 
